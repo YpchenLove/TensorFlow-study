@@ -1,0 +1,11 @@
+{
+  "name": "TensorFlow-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:YpchenLove/TensorFlow-study.git",
+  "author": "Ypchen <ypchng@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.4.0"
+  }
+}
